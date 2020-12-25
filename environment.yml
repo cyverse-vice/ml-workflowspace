@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - mamba
+  - snakemake
+  - graphviz=2.42.3
